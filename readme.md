@@ -1,0 +1,1 @@
+Distributed Denial of Service (DDoS) attack: In this type of attack, an attacker floods a website or network with traffic, causing it to become unavailable to users. DDoS attacks can be launched from multiple sources, making them difficult to defend against.
