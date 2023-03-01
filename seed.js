@@ -35,4 +35,4 @@ const signupRandomUsers = async (numUsers) => {
 };
 
 
-signupRandomUsers(100);
+signupRandomUsers(1_000_000);
